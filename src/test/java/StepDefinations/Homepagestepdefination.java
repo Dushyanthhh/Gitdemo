@@ -53,6 +53,6 @@ public void added_items_to_selected_product_to_cart(String quanity) {
 	homepage.incrementquanity(Integer.parseInt(quanity));
     homepage.addtoCart();
 }
-
-
+  int a=1;
+ 
 }
